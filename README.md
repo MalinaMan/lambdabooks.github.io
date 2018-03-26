@@ -9,4 +9,4 @@ The site for ƛ LambdaBooks
 [facebook-image]: https://img.shields.io/badge/facebook-%40LambdaBooks-4267b2.svg?style=flat-square
 
 [slack-url]:  http://slack.lambdabooks.com
-[slack-image]: https://img.shields.io/badge/slack-Lambda%20Books-red.svg?style=flat-square
+[slack-image]: https://img.shields.io/badge/slack-LambdaBooks-red.svg?style=flat-square
